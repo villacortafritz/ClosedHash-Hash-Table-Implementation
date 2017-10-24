@@ -11,5 +11,5 @@ Functions include:
   add, 
   contains
  
- Activity was made 5/2/2017 12:43:44
+Activity was made 5/2/2017 12:43:44
 Author: Fritz Villacorta 
